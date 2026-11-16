@@ -17,8 +17,8 @@ Este projeto consiste no desenvolvimento e na evolução de um portfólio web pe
 
 ## Link do Site Publicado
 Acesse o portfólio online através do link:  
-🔗 [https://enrilson-souza-pereira.github.io/portfolio/](https://enrilson-souza-pereira.github.io/portfolio/)  
-*(Nota: Caso o nome do seu repositório no GitHub seja diferente de `portfolio`, substitua esse trecho na URL acima pelo nome exato do repositório).*
+🔗 https://enrilson-souza-pereira.github.io/Meu_Portf-lio_Ds/
+
 
 ## Funcionamento do Projeto
 O site adota uma estrutura moderna em *One-Page* com navegação fluida:
